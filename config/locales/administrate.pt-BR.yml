@@ -24,3 +24,5 @@ pt-BR:
         not_supported: Relações polimórficas nos formulários não são suportadas.
       has_one:
         not_supported: Relações um para muitos nos formulários não são suportadas.
+    scopes:
+      scopes: Filtros
